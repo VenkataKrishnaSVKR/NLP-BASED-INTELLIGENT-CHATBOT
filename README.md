@@ -33,7 +33,7 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/
+      https://github.com/VenkataKrishnaSVKR/NLP-BASED-INTELLIGENT-CHATBOT.git
 ```
 2.Navigate to the project directory:
 
